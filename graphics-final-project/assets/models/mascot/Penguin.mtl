@@ -1,0 +1,4 @@
+# Texture link added for the project loader (original export omitted map_Kd).
+newmtl Texture
+Kd 1.000000 1.000000 1.000000
+map_Kd Penguin_Texture.png

@@ -1,0 +1,6 @@
+Entrance mascot model: "Cute Animated Monsters" (Penguin) by Quaternius
+License: CC0 1.0 Universal (Public Domain Dedication)
+Source: https://opengameart.org/content/textured-cute-monster-pack
+        https://quaternius.com
+Penguin.mtl was edited to add the map_Kd texture link (original OBJ
+export omitted it). Pack also includes Panda, Pig, YellowDragon, Bee, etc.
